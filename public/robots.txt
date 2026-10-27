@@ -1,3 +1,4 @@
+# Internal dashboard. Crawling stays allowed so search engines can see the
+# noindex in index.html and drop the page.
 User-agent: *
 Allow: /
-Sitemap: https://tracker.doaide.com/sitemap.xml
